@@ -1,4 +1,4 @@
-# Send Bulk Email in python through csv
+# Send Bulk Email in python
 
 ## Steps to run:
 
