@@ -8,7 +8,7 @@
 ### 2.  Activate .env
 `source .env/bin/activate`
 
-### 3.  Fill details of receives in excel.csv
+### 3.  Fill details of receivers in excel.csv
 
 ### 4. Changes in code.py
   1. change path of cvs file to your local csv path(in line 12)
