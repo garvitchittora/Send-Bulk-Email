@@ -23,7 +23,7 @@
    
   TIP: enable Less secure app access of that google account(sender's email)
     
-    `manage your Google Account -> security -> Less secure app access -> enable`
+    manage your Google Account -> security -> Less secure app access -> enable
 
 ### 5. Run Code
   1. `python`
